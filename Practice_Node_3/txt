@@ -1,0 +1,14 @@
+npm understanding 
+
+npm - node package manager
+-node js core me install hoke aata hai wo kehlata hai module
+-jo hum npm se download karte hai wo hota hai package
+
+installing and uninstalling anything basic and advanced
+
+understanding node_modules
+
+dependencies - packages and packages ki dependencies
+devdependencies - aese packages jo sirf development me kaam aayenge par jab app ban jayega or upload ho jayega tab hum in packages ko use nhi kar rahe honge
+
+scripts - understanding default scripts PATH and custom scripts

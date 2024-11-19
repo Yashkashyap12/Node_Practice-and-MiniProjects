@@ -1,0 +1,6 @@
+users post likh payenge
+users create karne hai 
+login and register functionality add karni hai and logout also create
+post creation hoga 
+post like karana    
+give post delete option for post owner 

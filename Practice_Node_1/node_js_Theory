@@ -1,0 +1,22 @@
+//Node.js Basics:
+
+//Introduction to Node.js.
+
+//node & npm.
+//working with node and npm.
+//npm init.
+//node basic usage.
+
+//working with modules.
+//File system operations.
+//understanding HTTP module.
+
+
+//npm init -> package.json -> lekha jokha of the project
+
+//writefile
+//appendFile
+//copyfile
+//raname
+//unlink
+//writefile(path.join(_dirname,))

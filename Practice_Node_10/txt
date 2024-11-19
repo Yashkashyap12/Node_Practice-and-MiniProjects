@@ -1,0 +1,8 @@
+Create User Account
+    mongoose
+    schema
+    model
+    usercreate ->password-> hash karke save karna padega 
+    jwt token-> cookie set karna hai frontend password
+     
+     Login-> token-> decrypt-> email

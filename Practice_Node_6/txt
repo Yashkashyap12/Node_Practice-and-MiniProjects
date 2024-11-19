@@ -1,0 +1,16 @@
+setting up parsers for form
+setting up ejs for ejs pages
+    install ejs from npm
+    setup ejs as a view engine
+
+setting up public static files
+
+dynamic routing
+    dynamic routing 
+        -sabse pehle browser par jao 
+        -url likho apna jo apko chahiye or enter dabao
+        -ab us url ko create karo 
+        -response bhejiye kuch bhi 
+        -ab usi url ko agar dynamic banana hai to realize karo konsa part dynamic hai or us part k aage route me colon(:) laga do
+    how to get data coming from frontend at backend route 
+
